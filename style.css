@@ -1,0 +1,45 @@
+body {
+    background-color: #f8f7fc;
+}
+
+.titulo {
+    color: #4b2995;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 24px;
+}
+
+.form-label {
+    color: #4b2995;
+}
+
+input.form-control,
+select.form-select {
+    border: 1.5px solid #e0e0e0;
+}
+
+input.form-control:focus,
+select.form-select:focus {
+    border-color: #7c3aed;
+    box-shadow: 0 0 0 0.2rem rgba(124, 58, 237, 0.15);
+}
+
+.gasto-item {
+    background-color: #f4f2fb;
+    transition: 0.3s;
+}
+
+.gasto-item:hover {
+    background-color: #ebe9f7;
+}
+
+.valor {
+    color: #4b2995;
+    font-size: 1rem;
+}
+
+h6 {
+    color: #333;
+}
